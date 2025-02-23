@@ -7,3 +7,8 @@ creado por el malvado Profesor Caos. Con su calculadora mágica, Max deberá res
 cada región del reino.
 El jugador podrá resolver operaciones matemáticas mediante juegos interactivos, para avanzar deberá superar minijuegos de lógica y cálculo
 mental, y los desafíos incluirán problemas de sumas, restas, multiplicaciones, divisiones y patrones numéricos.
+Los estudiantes avanzarán mediante un sistema de puntos y recompensas. Cada nivel representará un concepto matemático específico, y los
+jugadores recibirán retroalimentación inmediata sobre su desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.
+Los jugadores aprenderán fracciones mediante rompecabezas interactivos. Se reforzará geometría a través de desafíos de construcción de 
+figuras, y las evaluaciones se realizarán mediante retos cronometrados, lo que permitirá a los profesores y estudiantes medir el progreso de
+manera efectiva.
