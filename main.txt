@@ -1,3 +1,6 @@
+"Matefacil" es un videojuego educativo diseñado para enseñar matemáticas a estudiantes de primaria a través de una experiencia interactiva y
+emocionante. La historia se desarrolla en Numeralia, un mundo mágico donde los números cobran vida y cada desafío resuelve un misterio 
+matemático.
 El protagonista de esta aventura es Max, un/a joven genio de las matemáticas con una mente brillante y una gran curiosidad. Max ha sido 
 elegido/a como el Guardian de los Números, con la misión de restaurar el equilibrio de Numeralia, que ha sido alterado por el caos matemático
 creado por el malvado Profesor Caos. Con su calculadora mágica, Max deberá resolver acertijos y desafíos numéricos para devolver el orden a
