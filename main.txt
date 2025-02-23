@@ -12,3 +12,6 @@ jugadores recibirán retroalimentación inmediata sobre su desempeño, lo que le
 Los jugadores aprenderán fracciones mediante rompecabezas interactivos. Se reforzará geometría a través de desafíos de construcción de 
 figuras, y las evaluaciones se realizarán mediante retos cronometrados, lo que permitirá a los profesores y estudiantes medir el progreso de
 manera efectiva.
+El juego se desarrollará usando Unity, asegurando compatibilidad con PC, dispositivos móviles y tabletas. Además, se implementarán 
+características como niveles adaptativos, asistencia con pistas interactivas y un sistema de logros para garantizar una experiencia de juego
+dinámica y atractiva.
